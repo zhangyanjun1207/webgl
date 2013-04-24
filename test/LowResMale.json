@@ -1,0 +1,116 @@
+{
+  "materials": {
+    "leftiris:1": { "map_Kd": "PPro_MR_Male.png" },
+    "lefteyeball:1": { "map_Kd": "PPro_MR_Male.png" },
+    "leftpupil:1": { "map_Kd": "PPro_MR_Male.png" },
+    "leftcornea:1": { "Kd": [14, 14, 14] },
+    "rightiris:1": { "map_Kd": "PPro_MR_Male.png" },
+    "righteyeball:1": { "map_Kd": "PPro_MR_Male.png" },
+    "rightpupil:1": { "map_Kd": "PPro_MR_Male.png" },
+    "rightcornea:1": { "Kd": [14, 14, 14] },
+    "gums:1": { "map_Kd": "PPro_MR_Male.png" },
+    "lacrimal:1": { "map_Kd": "PPro_MR_Male.png" },
+    "teeth:1": { "map_Kd": "PPro_MR_Male.png" },
+    "tongue:1": { "map_Kd": "PPro_MR_Male.png" },
+    "eyelashes:1": { "Kd": [0, 0, 0] },
+    "head:1": { "map_Kd": "PPro_MR_Male.png" },
+    "lips:1": { "map_Kd": "PPro_MR_Male.png" },
+    "nostrils:1": { "map_Kd": "PPro_MR_Male.png" },
+    "innermouth:1": { "map_Kd": "PPro_MR_Male.png" },
+    "body:1": { "map_Kd": "PPro_MR_Male.png" },
+    "toenails:1": { "map_Kd": "PPro_MR_Male.png" },
+    "fingernails:1": { "map_Kd": "PPro_MR_Male.png" },
+    "preview:2": { "Kd": [204, 204, 204] }
+  },
+  "decodeParams": {
+    "decodeOffsets": [-8191,-2,-8191,0,0,-511,-511,-511],
+    "decodeScales": [0.000391,0.000391,0.000391,0.000978,0.000978,0.001957,0.001957,0.001957]
+  }, "urls": {
+    "/home/zhang/workspace/test001/src/LowResMale.utf8": [
+      { "material": "body:1",
+        "attribRange": [0, 5241],
+        "indexRange": [41928, 7784]
+      },
+      { "material": "eyelashes:1",
+        "attribRange": [65280, 60],
+        "indexRange": [65760, 52]
+      },
+      { "material": "fingernails:1",
+        "attribRange": [65916, 170],
+        "indexRange": [67276, 240]
+      },
+      { "material": "gums:1",
+        "attribRange": [67996, 455],
+        "indexRange": [71636, 748]
+      },
+      { "material": "head:1",
+        "attribRange": [73880, 988],
+        "indexRange": [81784, 1866]
+      },
+      { "material": "innermouth:1",
+        "attribRange": [87382, 126],
+        "indexRange": [88390, 214]
+      },
+      { "material": "lacrimal:1",
+        "attribRange": [89032, 84],
+        "indexRange": [89704, 144]
+      },
+      { "material": "leftcornea:1",
+        "attribRange": [90136, 49],
+        "indexRange": [90528, 80]
+      },
+      { "material": "lefteyeball:1",
+        "attribRange": [90768, 129],
+        "indexRange": [91800, 208]
+      },
+      { "material": "leftiris:1",
+        "attribRange": [92424, 64],
+        "indexRange": [92936, 96]
+      },
+      { "material": "leftpupil:1",
+        "attribRange": [93224, 65],
+        "indexRange": [93744, 112]
+      },
+      { "material": "lips:1",
+        "attribRange": [94080, 156],
+        "indexRange": [95328, 260]
+      },
+      { "material": "nostrils:1",
+        "attribRange": [96108, 34],
+        "indexRange": [96380, 48]
+      },
+      { "material": "preview:2",
+        "attribRange": [96524, 441],
+        "indexRange": [100052, 800]
+      },
+      { "material": "rightcornea:1",
+        "attribRange": [102452, 49],
+        "indexRange": [102844, 80]
+      },
+      { "material": "righteyeball:1",
+        "attribRange": [103084, 129],
+        "indexRange": [104116, 208]
+      },
+      { "material": "rightiris:1",
+        "attribRange": [104740, 64],
+        "indexRange": [105252, 96]
+      },
+      { "material": "rightpupil:1",
+        "attribRange": [105540, 65],
+        "indexRange": [106060, 112]
+      },
+      { "material": "teeth:1",
+        "attribRange": [106396, 1683],
+        "indexRange": [119860, 2776]
+      },
+      { "material": "toenails:1",
+        "attribRange": [128188, 170],
+        "indexRange": [129548, 240]
+      },
+      { "material": "tongue:1",
+        "attribRange": [130268, 100],
+        "indexRange": [131068, 176]
+      }
+    ]
+  }
+}
